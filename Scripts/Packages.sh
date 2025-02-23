@@ -55,7 +55,6 @@ UPDATE_PACKAGE() {
 UPDATE_PACKAGE "argon" "zijieKwok/istoreos-theme" "main"
 
 UPDATE_PACKAGE "homeproxy" "VIKINGYFY/homeproxy" "main"
-UPDATE_PACKAGE "linkease" "Jaykwok2999/quickstart" "main" "pkg"
 UPDATE_PACKAGE "nikki" "nikkinikki-org/OpenWrt-nikki" "main"
 UPDATE_PACKAGE "openclash" "vernesong/OpenClash" "dev" "pkg"
 UPDATE_PACKAGE "passwall" "xiaorouji/openwrt-passwall" "main" "pkg"
